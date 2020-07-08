@@ -1,2 +1,4 @@
+
+#ignore all csv and DS_Store files
 *.csv
 *.DS_Store
