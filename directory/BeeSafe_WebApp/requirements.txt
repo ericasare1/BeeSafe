@@ -151,7 +151,7 @@ traitlets==4.3.3
 tzlocal==2.1
 umap-learn==0.4.3
 update-checker==0.17
-urllib3==1.25.9
+urllib3==1.26.5
 validators==0.15.0
 vega-datasets==0.7.0
 wasabi==0.6.0
